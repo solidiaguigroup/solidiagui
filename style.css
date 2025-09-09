@@ -346,4 +346,5 @@ body{
   color: var(--muted);
   line-height: 1.5;
   margin-bottom: 0;
+  text-align: left;
 }
